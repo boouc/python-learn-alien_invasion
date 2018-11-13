@@ -1,0 +1,8 @@
+# Byte-compile
+__pycache__/
+
+# Environments
+venv/
+
+# Pycharm
+.idea
